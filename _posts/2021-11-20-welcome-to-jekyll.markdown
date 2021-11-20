@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Numerical linear Algebra"
+title:  "Numerical linear Algebra"
 date:   2021-11-20 19:57:32 +0400
 categories: jekyll update
 ---
