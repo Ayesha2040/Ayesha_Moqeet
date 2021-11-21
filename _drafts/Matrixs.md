@@ -1,6 +1,6 @@
 ---
 layout: pos
-title:  "Matrix Basics"
+title:  "Matrixs"
 image:  /images/img1.png
 file:  /Py-files/PNB.py
 
@@ -35,6 +35,6 @@ $$\sum_{k=1}^2 a_k$$
 <div style="text-align: left"><img src="{{page.image | relative_url}}" height="240" width="350"></div>
 
 
-[ss]{{ site.url }}/Py-files/PNB.py
+
 
 [^1]: Footnote
